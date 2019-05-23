@@ -1,0 +1,15 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = P50;
+NET "s[0]" LOC = P51;
+NET "s[1]" LOC = P48;
+NET "hsync" LOC = P87;
+NET "rx" LOC = P112;
+NET "vsync" LOC = P85;
+NET "rgb[0]" LOC = P84;
+NET "rgb[1]" LOC = P83;
+NET "rgb[2]" LOC = P82;
+NET "rgb[3]" LOC = P81;
+NET "rgb[4]" LOC = P80;
+NET "rgb[5]" LOC = P79;
