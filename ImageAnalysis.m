@@ -1,5 +1,5 @@
 %read the image
-I = imread('Gimp2.jpg');	
+I = imread('Gimp.jpg');	
 imshow(I);
 		
 %Extract RED, GREEN and BLUE components from the image
